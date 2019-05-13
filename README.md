@@ -1,3 +1,3 @@
 # jacknpoy
 
-Rock Paper Scissors Project
+Rock Paper Scissors - Javascript Project
